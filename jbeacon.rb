@@ -1,4 +1,4 @@
-class JBeacon < Formula
+class Jbeacon < Formula
     desc "Broadcast Beacon from your Mac"
     homepage ""
     url "https://github.com/juliuscanute/jbeacon/releases/download/v1.0.0/jbeacon.zip"
