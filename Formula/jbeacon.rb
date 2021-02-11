@@ -1,8 +1,8 @@
 class Jbeacon < Formula
     desc "Broadcast Beacon from your Mac"
     homepage ""
-    url "https://github.com/juliuscanute/jbeacon/releases/download/v1.1.1/jbeacon.zip"
-    sha256 "a4d58ca20a41186d7c218bbac0e7b7d9e4bda5ab56b757494bae5e21aa40b9f2"
+    url "https://github.com/juliuscanute/jbeacon/releases/download/v1.1.10/jbeacon.zip"
+    sha256 "a1a6fe5f5666f85d10ec33aebb807a7863d2ad7b04bb6f99bf3b0f22315f078c"
   
     def install
       bin.install 'jbeacon'
